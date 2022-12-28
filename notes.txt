@@ -1,0 +1,10 @@
+1.Create a new environment with python-3.9
+
+using following command
+conda create -n my-conda-env         # creates new virtual env
+
+2.Cd move to the directory with data set and install jupyter and launch the notebook
+conda install jupyter                # install jupyter + notebook
+jupyter notebook    
+
+3.
